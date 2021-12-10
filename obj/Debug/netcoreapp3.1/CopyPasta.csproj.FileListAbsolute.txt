@@ -1,0 +1,17 @@
+F:\Projects\CopyPasta\CopyPasta\bin\Debug\netcoreapp3.1\CopyPasta.exe
+F:\Projects\CopyPasta\CopyPasta\bin\Debug\netcoreapp3.1\CopyPasta.deps.json
+F:\Projects\CopyPasta\CopyPasta\bin\Debug\netcoreapp3.1\CopyPasta.runtimeconfig.json
+F:\Projects\CopyPasta\CopyPasta\bin\Debug\netcoreapp3.1\CopyPasta.runtimeconfig.dev.json
+F:\Projects\CopyPasta\CopyPasta\bin\Debug\netcoreapp3.1\CopyPasta.dll
+F:\Projects\CopyPasta\CopyPasta\bin\Debug\netcoreapp3.1\CopyPasta.pdb
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.csprojAssemblyReference.cache
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.CopyPastaForm.resources
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.Form1.resources
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.Properties.Resources.resources
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.csproj.GenerateResource.cache
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.AssemblyInfoInputs.cache
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.AssemblyInfo.cs
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.csproj.CoreCompileInputs.cache
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.dll
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.pdb
+F:\Projects\CopyPasta\CopyPasta\obj\Debug\netcoreapp3.1\CopyPasta.genruntimeconfig.cache
